@@ -58,7 +58,7 @@ func enums() {
 	fmt.Println(b, kb, mb, gb, tb, pb)
 }
 
-func main01() {
+func Main01() {
 	fmt.Println("hello,world")
 	variableZeroValue()
 	variableInitialValue()

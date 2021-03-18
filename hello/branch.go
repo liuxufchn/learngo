@@ -1,4 +1,4 @@
-package main
+package hello
 
 import (
 	"bufio"
@@ -38,7 +38,7 @@ func printTextFileUsingBufio() {
 	}
 }
 
-func main() {
+func Main02() {
 	printTextFile()
 	convert2Binary(10)
 	convert2Binary(6)
