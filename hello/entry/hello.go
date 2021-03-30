@@ -3,5 +3,5 @@ package main
 import "learngo/hello"
 
 func main() {
-	hello.Main05()
+	hello.Main04()
 }
